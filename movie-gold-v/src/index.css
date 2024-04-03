@@ -1,0 +1,12 @@
+.movie-carousel-container{
+  width: 100vh;
+  background-color: balck;
+
+}
+.movie-poster{
+  height: 100%;
+
+}
+.movie-poster> img{
+  height: 100%;
+}
